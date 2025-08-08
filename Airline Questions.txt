@@ -1,0 +1,57 @@
+Questions on Data Inspection and Basic Statistics
+
+How many unique airlines are there in the dataset?
+
+What is the average price of a flight?
+
+Which airline has the highest average price?
+
+What is the distribution of flights for each source_city?
+
+What is the most common source_city?
+
+
+Questions on Filtering and Grouping Data
+
+
+Find all the flights from source_city 'Delhi' to destination_city 'Mumbai'.
+
+What is the average price of flights with departure_time 'Morning'?
+
+Which class has the most number of flights?
+
+Find the cheapest flight from 'Bangalore' to 'Kolkata'.
+
+What is the average price for flights with 0 stops?
+
+How many flights have a duration of more than 10 hours?
+
+What is the average price for each airline?
+
+Which source_city has the highest average flight price?
+
+What is the average flight duration for each departure_time?
+
+
+Questions on Time and Price Analysis
+
+
+How does the average flight price change as the days_left for the flight decreases?
+
+Find the most expensive flight for each class.
+
+How many flights have 'Late_night' as their departure_time and 'Early_morning' as their arrival_time?
+
+What is the average price difference between Economy and Business class flights?
+
+Which airline offers the cheapest flights with 0 stops?
+
+What is the average flight price for each source_city and destination_city pair?
+
+What is the most popular flight route in the dataset (i.e., the most frequent source_city and destination_city pair)?
+
+Which airline has the highest number of flights in total?
+
+What is the longest flight duration in the entire dataset, and what are its details (airline, route, etc.)?
+
+How does the average price for Economy class flights change depending on the number of stops?
