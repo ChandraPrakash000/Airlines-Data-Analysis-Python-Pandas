@@ -20,11 +20,14 @@ Interactive Visualizations: Charts and graphs for easy interpretation.
 Data Cleaning & Preprocessing: Ensures accurate and reliable analysis.
 
 🛠️ Tech Stack
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Jupyter Notebook for analysis and visualization
 CSV/Excel data sources
 
+
 📁 Project Structure
+
 
 airline-analysis/
 │
@@ -36,20 +39,24 @@ airline-analysis/
 
 
 Install dependencies:
+
 pip install pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 
 Run the Jupyter notebook:
+
 jupyter notebook notebooks/airline_analysis.ipynb
 
 
 📈 Sample Insights
+
 Delhi to Mumbai is the most popular route.
 Prices tend to increase sharply as the departure date approaches.
 Longer flights generally have higher prices, but exceptions exist.
 
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the repo, open issues, or submit pull requests.
