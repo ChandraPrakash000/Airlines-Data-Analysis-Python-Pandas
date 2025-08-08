@@ -35,12 +35,6 @@ airline-analysis/
 └── requirements.txt       # Python dependencies
 
 
-🚀 Getting Started
-Clone the repository:
-git clone https://github.com/ChandraPrakash000/airline-analysis.git
-cd airline-analysis
-
-
 Install dependencies:
 pip install pandas as pd
 import matplotlib.pyplot as plt
